@@ -1,4 +1,4 @@
-# <p align="center">Hey, I'm Saurabh <img src="hi.gif" width="29px">
+# <p align="center">Hey, I'm Prathamesh <img src="hi.gif" width="29px">
 
 </p>
 
@@ -8,8 +8,8 @@
 
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/saurabh-suchak-389289227/"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="30 !important" height="30" style="margin-right:15px!important"></a>
-<a href="mailto:saurabhsuchak108@gmail.com"><img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="30" height="30" style="margin-right: 15px !important"></a>
+<a href="https://www.linkedin.com/in/prathamesh-gujar-001138243/"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="30 !important" height="30" style="margin-right:15px!important"></a>
+<a href="mailto:gujarpa@gmail.com"><img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="30" height="30" style="margin-right: 15px !important"></a>
 
  
 </p> 
@@ -43,11 +43,11 @@
 
 ## <📈 GitHub Stats >  
 
-<!-- Contributor Graph-1 : https://activity-graph.herokuapp.com/graph?username=Saurabh-Suchak&theme=xcode  -->
-<!-- ![](https://activity-graph.herokuapp.com/graph?username=Saurabh-Suchak&theme=react-dark&hide_border=true) -->
+<!-- Contributor Graph-1 : https://activity-graph.herokuapp.com/graph?username=Prathamesh-Gujar&theme=xcode  -->
+<!-- ![](https://activity-graph.herokuapp.com/graph?username=Prathamesh-Gujar&theme=react-dark&hide_border=true) -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=verma-kunal&show_icons=true&theme=tokyonight)  -->
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Saurabh-Suchak&show_icons=true&theme=algolia&hide_border=true" />
-<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-Suchak&theme=algolia&hide_border=true" /> -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Gujar&show_icons=true&theme=algolia&hide_border=true" />
+<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh-Gujar&theme=algolia&hide_border=true" /> -->
 </p>
